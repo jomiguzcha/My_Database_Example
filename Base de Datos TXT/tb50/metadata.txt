@@ -1,0 +1,5 @@
+id int
+edad int
+nombre string
+apellido string
+fecha string
